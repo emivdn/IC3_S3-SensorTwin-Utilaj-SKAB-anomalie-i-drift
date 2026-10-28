@@ -1,4 +1,4 @@
-# CP1 S3 - SensorTwin SKAB
+# S3 - SensorTwin SKAB
 
 Pipeline reproductibil pentru incarcarea si verificarea setului **SKAB v0.9**.
 
