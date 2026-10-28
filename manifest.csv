@@ -1,0 +1,2 @@
+source_file,scenario,rows,start,end,duration_s,median_step_s,timestamp_gaps,max_gap_s,duplicate_timestamps,missing_values,anomaly_rows,changepoint_rows,split
+/mnt/data/CP1_S3_repo/data/sample/valve1_1_excerpt.csv,sample,29,2020-03-09T10:34:33,2020-03-09T10:45:21,648.0,1.0,3,619.0,0,0,21,0,train
